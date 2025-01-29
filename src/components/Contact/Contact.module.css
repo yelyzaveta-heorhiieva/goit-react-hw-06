@@ -1,0 +1,18 @@
+.text {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.deleteBtn {
+  padding: 6px;
+  border-radius: 4px;
+  background-color: orangered;
+  color: white;
+  min-width: 80px;
+  height: 40px;
+}
+
+.wrapper {
+  height: 40px;
+}
