@@ -2,6 +2,12 @@
   display: flex;
   gap: 10px;
   margin-bottom: 8px;
+  max-width: 160px;
+}
+
+.span {
+  overflow-wrap: break-word;
+  width: 140px;
 }
 
 .deleteBtn {
@@ -10,9 +16,5 @@
   background-color: orangered;
   color: white;
   min-width: 80px;
-  height: 40px;
-}
-
-.wrapper {
   height: 40px;
 }
